@@ -13,6 +13,6 @@ package com.BridgeLabz.generics;
 
 		public static void main(String[] args) {
 			System.out.println("Welcome To Find Maximun Problem Using Generics \n");
-			System.out.println("The maximum value between the three float is : " + maxOfValues(1.5f, 3.56f, 5.87f) );
+			System.out.println("The maximum value between the three string is : " + maxOfValues("abc", "pqr", "jkl"));
 		}
 	}
